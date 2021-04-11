@@ -1,1 +1,7 @@
-{"ftp_server": "147.135.65.106", "username": "wolfrend013@gmail.com.289083", "password": "51YhFL0:(nD9tq", "jenkins_host": "https://ci.opencollab.dev/job/GeyserMC/job/Geyser/job/master/", "last_build": "", "latest_build": "#668"}
+{
+  "ftp_server": "",
+  "username": "",
+  "password": "",
+  "jenkins_host": "https://ci.opencollab.dev/job/GeyserMC/job/Geyser/job/master/",
+  "last_build": ""
+}

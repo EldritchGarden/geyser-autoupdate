@@ -110,6 +110,6 @@ if __name__ == "__main__":
     delete(old_file, "plugins")
 
     # store latest build in host.json
-    host['latest_build'] = latest
+    host['last_build'] = latest
     with open("host.json", 'w') as update:
         json.dump(host, update)
